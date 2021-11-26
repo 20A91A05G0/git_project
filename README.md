@@ -19,5 +19,8 @@
 # Link Readme File
 [Click Me]("www.google.com")
 
-# Imag- Readme File
-![Mr.bean]("Mr_beans_holiday_ver2.jpg")
+# Img- Readme File
+![Mr.bean](Mr_beans_holiday_ver2.jpg)
+
+
+
