@@ -31,9 +31,28 @@
 
 
 # List
-## ordered List
+## Ordered List
 1. Name
 2. RollNumber
 3. Branch
 4. College
-## unordered List
+## Unordered List
+- Name
+- RollNumber
+- Branch
+- College 
+
+* Name
+* RollNumber
+* Branch
+
+
+## Nested List
+1. Name
+   1.First
+   2.Last
+   3.Middle Name
+2. Github
+   1.User Name
+   2.Mail Id
+   3.Password
